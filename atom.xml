@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luisy92.github.io</id>
+    <title>思忆录</title>
+    <updated>2022-07-24T13:19:45.979Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://luisy92.github.io"/>
+    <link rel="self" href="https://luisy92.github.io/atom.xml"/>
+    <subtitle>Think, Memory, and Record!</subtitle>
+    <logo>https://luisy92.github.io/images/avatar.png</logo>
+    <icon>https://luisy92.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 思忆录</rights>
+    <entry>
+        <title type="html"><![CDATA[新手搭建博客的好帮手-Gridea]]></title>
+        <id>https://luisy92.github.io/post/kai-duan/</id>
+        <link href="https://luisy92.github.io/post/kai-duan/">
+        </link>
+        <updated>2022-07-24T12:56:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>不需要一行代码，通过Gridea, 轻松搭建个人博客。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>不需要一行代码，通过Gridea, 轻松搭建个人博客。</p>
+<!-- more -->
+<h1 id="背景">背景</h1>
+<p>年初定得Flag之一就是创建一个个人博客。输出倒逼输入的学习方式，可以提高学习效率。如果不想被社交情绪打扰，又想无压力的输出，在我看来，个人博客是一个不错的选择。<br>
+但是搭建个人博客，在网上一搜都需要依赖一些框架，对于不懂软件的小白来说，着实有些门槛。我也尝试下载了node.js和ruby，想通过网上的教程部署博客，但是过程中总是有一些小问题。机缘巧合下，我看到了Gridea，让我十分轻松的搭建了个人博客。所以我想把这个过程分享出来，如果有同样需要的人，希望能提供一些参考。</p>
+<h1 id=""></h1>
+]]></content>
+    </entry>
+</feed>
